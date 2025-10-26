@@ -1,5 +1,7 @@
-BOT_TOKEN=8159773495:AAHI0jvGCBPK2haQw19PaT8C9PcN4sYOaBc
-OWNER_ID=6321618547
-ADMIN_ID=6321618547
-YOUR_USERNAME=@RASHIK_69
-UPDATE_CHANNEL=t.me/RASHIK_69
+aiogram>=3.22.0
+aiohttp>=3.12.15
+flask>=3.1.2
+psutil>=7.1.1
+pytelegrambotapi>=4.29.1
+python-dotenv>=1.1.1
+requests>=2.32.5
